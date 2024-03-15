@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherphia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a41020d558e4f80735c17d33b0d38f2b2dfc3f4bc09e0d8b9e8793647e6b4a25/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966">
+
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/a41020d558e4f80735c17d33b0d38f2b2dfc3f4bc09e0d8b9e8793647e6b4a25/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherphia&label=Profile%20views&color=0e75b6&style=flat" alt="sherphia" /> </p>
 
@@ -16,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sherphia-let-37364925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherphia-let-37364925b" height="30" width="40" /></a>
 <a href="https://instagram.com/sherph_375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherph_375" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sl0874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sl0874" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sl0874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sl0874" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sl0874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sl0874" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherphia&show_icons=true&locale=en" alt="sherphia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherphia&" alt="sherphia" /></p>
-
