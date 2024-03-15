@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherphia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a41020d558e4f80735c17d33b0d38f2b2dfc3f4bc09e0d8b9e8793647e6b4a25/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherphia&label=Profile%20views&color=0e75b6&style=flat" alt="sherphia" /> </p>
 
