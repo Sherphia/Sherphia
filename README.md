@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sherphia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/a41020d558e4f80735c17d33b0d38f2b2dfc3f4bc09e0d8b9e8793647e6b4a25/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherphia&label=Profile%20views&color=0e75b6&style=flat" alt="sherphia" /> </p>
+<div align="center">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherphia" alt="sherphia" /></a> </p>
 
