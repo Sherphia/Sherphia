@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sherphia</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
